@@ -1,4 +1,4 @@
-*(This is the type of result this script produces - explained fully on my webpage linked below...)*
+*(This is the type of result this script produces - explained fully on my webpage linked below & above.)*
 ![Example result from script](errors.LKF_EKF_EKF2.png)
 
 gravdragdemo.m, Oct 2006  
