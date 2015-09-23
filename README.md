@@ -1,9 +1,9 @@
+*(This is the type of result this script produces - explained fully on my webpage linked below...)*
 ![Example result from script](errors.LKF_EKF_EKF2.png)
-######(This is the type of result this script produces - explained fully on my webpage linked below.)
 
-gravdragdemo.m, Oct 2006
-Andy Ganse, Applied Physics Laboratory, University of Washington
-aganse@apl.washington.edu
+gravdragdemo.m, Oct 2006  
+Andy Ganse, Applied Physics Laboratory, University of Washington  
+aganse@apl.washington.edu  
 
 
 A classic textbook on predictive filters is Applied Optimal Estimation, editted by Gelb (1974).  In section 6.1 of that book are two simple radar tracking examples (6.1-2 and 6.1-3) which demonstrate several nonlinear filters:
